@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # The Meteor Chef - Base (@1.1.0.2)
 A starting point for Meteor apps.
 
@@ -168,3 +169,6 @@ Base includes support for fixed bar (top and bottom) and growl-style alerts on t
 
 ###### Automatic Admin User Creation
 When developing, having a handful of user accounts to test your application with can come in handy. Base comes with an automated account generation script located in `server/admin/startup.js` that creates accounts based on an array of specified users. **Note: by default this creates one Admin user on server startup, so make sure to customize or remove this user so the public can't access your app**.
+=======
+# code
+>>>>>>> a86d054990cc0db143581d33baef7e0e9fe301c9
